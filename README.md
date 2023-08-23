@@ -1,6 +1,6 @@
 # Spring Rest Eticaret Shopping Site with React
 
-Bu projede Java Spring ,MVC ve React kullanılarak bir eticaret sitesi müşteri arayüzü ve bu sitenin yönetim yani (admin panel) arayüzü yapılmıştır. 
+Bu projede Java Spring Rest Service, JPA , MySQL ve React kullanılarak bir eticaret sitesi müşteri arayüzü ve bu sitenin yönetim yani (admin panel) arayüzü yapılmıştır. 
 
  - [x]  Kullanıcı Arayüzünde;
        

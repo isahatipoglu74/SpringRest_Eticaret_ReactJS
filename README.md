@@ -57,7 +57,7 @@ Bu uygulamada Java Spring ve React kullanılarak bir eticaret sitesi için ihtiy
 # Project Display Image
 <p>
 
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/1.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/1.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
 <img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/2.png" width="300" height="250" style="max-width:100%;"></a>
 <img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/3.png" width="300" height="250" style="max-width:100%;"></a>
 <img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/4.png" width="300" height="250" style="max-width:100%;"></a>

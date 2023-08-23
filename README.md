@@ -50,7 +50,7 @@ Bu projede Java Spring ,MVC ve React kullanılarak bir eticaret sitesi müşteri
 
 ## Ugulama Note:
 ```
-Bu uygulama üzerinde genel olarak ürün ve note yönetimi işlemleri yapılmaktadır.
+Bu uygulamada Java Spring ve React kullanılarak bir eticaret sitesi için ihtiyaç duyulan müşteri ve admin panel işlemleri yapılmıştır.
 ```
 
 

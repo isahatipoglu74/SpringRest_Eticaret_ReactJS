@@ -57,11 +57,16 @@ Bu uygulamada Java Spring ve React kullanılarak bir eticaret sitesi için ihtiy
 # Project Display Image
 <p>
 
-<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/1.png" width="300" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/2.png" width="300" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/3.png" width="300" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/4.png" width="300" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/5.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/1.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/2.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/3.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/4.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/5.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/6.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/7.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/8.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/9.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/10.png" width="300" height="250" style="max-width:100%;"></a>
 </p>
 
 

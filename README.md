@@ -6,7 +6,7 @@ Spring Rest Eticaret Shopping Site with React
 <p> 
 Bu projede Java Spring ,MVC ve React kullanılarak bir eticaret sitesi müşteri arayüzü ve bu sitenin yönetim yani (admin panel) arayüzü yapılmıştır. 
 Kullanıcı Arayüzünde;
-  -Kullanıcıları ana link üzerinden login ekranı karşılamaktadır.
+  -Kullanıcılar ana link üzerinden login ekranı karşılamaktadır.
   -Kullanıcı bilgileri Crypto JS algoritması kullanılarak  asimetrik kodlama ile cryptolanır.
   -Kullanıcının daha önceden hesabı varsa login olabilir eğer yoksa register işlemi sonrasında sisteme giriş yapabilir.
   -Proje kapsamında admin paneli üzerinden yüklenen tüm ürünler kategorilerine göre listelenmektedir.
@@ -16,13 +16,23 @@ Kullanıcı Arayüzünde;
   -Bu sayfa içerisinde müşteri isterse ürününü sepete ekle butonu ile birlikte sepetine ekleyebilmektedir.
   -Navbardaki sepetim sekmesine tıklayarak sepetindeki ürünlerin listesini ayrıntılarıyla birlikte görebilmektedir.
   -Burada yine ürünü sepetten çıkart diyerek sepetinde işlemler yapılabilmektedir.
-
+Admin Paneli;
+  -Admin kullanıcılar yönetim paneline(http://localhost:3000/admin) yetklieri dahilinde  giriş yapabilir.
+  -Yönetim panelinde Category manager sayfasında ilgili kategorilerin listesini görebilmektedir.
+  -Yine bu sayfada yeni bir kategori ekleme , silme ve düzenleme işlemleri yapılabilmektedir.
+  -Product Manager sayfasında sistemdeki ürünlerin listesi görünmekte ve ürün kaldırılmak istendiği takdirde delete butonu ile yapılabilmektedir.
+  -Yine bu sayfadaki form bilgileri doldurularak add Product butonu ile sisteme yeni bir ürün eklenebilmektedir.
+  -OrderList sekmesinde ise kullanıcılar tarafından sipariş verilen ürünlerin listesi yer almaktadır.
+  -Setting sekmesiyle birlikte çıkış yap denilerek kullanıcı session bilgileri güvenli şekilde silinerek login ekranına düşülmektedir.
 </p>
 
 # Yazılım Sürümleri:
 - Java 8
 - Spring 2.17.3
 - Mysql 8
+- TypeScript 5.1.6
+- React 18.2.0
+- 
     
 # Ugulama Özellikleri:
 
